@@ -1,5 +1,5 @@
 {
-  "name": "@companynamespace/npm-package-template",
+  "name": "@easingthemes/autoz",
   "version": "1.0.0",
   "description": "<Package description>",
   "license": "Apache-2.0",
@@ -9,13 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/companynamespace/npm-package-template"
+    "url": "https://github.com/easingthemes/autoz"
   },
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "start": "node ./src/index"
   },
   "keywords": [
     "keyword"
-  ]
+  ],
+  "dependencies": {
+    "cross-fetch": "^3.1.5",
+    "react-base-table": "^1.13.1"
+  }
 }

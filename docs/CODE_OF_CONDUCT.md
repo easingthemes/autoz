@@ -1,4 +1,4 @@
-# <COMPANY> Code of Conduct
+# NOTAMAGIC Code of Conduct
 
 ## Our Pledge
 
